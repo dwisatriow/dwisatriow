@@ -2,14 +2,13 @@
 
 I am an electrical engineering graduate, passionate in software engineering :computer:
 
-### 🌱 I’m currently learning:
-- Front-end development, mainly focused on [React](https://reactjs.org/) :blue_book:
+### 🌱 I’m currently learning on:
+- Front-end development, mainly focused on [React](https://reactjs.org/) :book:
 
-### 🔭 I’m currently working on:
+### 🔭 And currently working on:
 - [freeCodeCamp](https://www.freecodecamp.org/) certification projects :rocket:
 
-<br />
-
+### :arrow_upper_right: Some stats
 ![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwisatriow&hide=stars,prs&show_icons=true&theme=tokyonight)
 
 ### 📫 How to reach me:
