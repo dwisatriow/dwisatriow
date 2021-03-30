@@ -1,6 +1,6 @@
 ## Hi there, I'm Rio :wave:
 
-I am an electrical engineering graduate, passionate in software engineering :computer:
+I am an electrical engineering graduate, passionate in software development :computer:
 
 ### 🌱 I’m currently learning on:
 - Front-end development, mainly focused on [React](https://reactjs.org/) :book:
